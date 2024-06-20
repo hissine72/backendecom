@@ -2,7 +2,7 @@
   "name": "ecombackend",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "json-server-auth db.json --watch --port 5005"
   },
@@ -13,3 +13,7 @@
     "json-server-auth": "^2.1.0"
   }
 }
+
+
+
+
